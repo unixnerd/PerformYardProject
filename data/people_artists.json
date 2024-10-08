@@ -1,0 +1,108 @@
+{
+  "people": [
+    {
+      "Name": "Eddy Verde",
+      "Music Genre": [
+        "Rock",
+        "Country"
+      ],
+      "Movies": [
+        "Avatar",
+        "The Good, the Bad and the Ugly"
+      ],
+      "Location": "Florida"
+    },
+    {
+      "Name": "Bonnie Wang",
+      "Music Genre": [
+        "Classical"
+      ],
+      "Movies": [
+        "Lilo & Stitch",
+        "Die Hard"
+      ],
+      "Location": "Maryland"
+    },
+    {
+      "Name": "Greta Heissenberger",
+      "Music Genre": [
+        "Jazz",
+        "Rock"
+      ],
+      "Movies": [
+        "The Departed",
+        "M*A*S*H",
+        "The Godfather"
+      ],
+      "Location": "Massachusetts"
+    },
+    {
+      "Name": "Justin Coker",
+      "Music Genre": [
+        "Country"
+      ],
+      "Movies": [
+        "Raiders of the Lost Ark",
+        "Apollo 13"
+      ],
+      "Location": "South Carolina"
+    },
+    {
+      "Name": "Jason Leo",
+      "Music Genre": [
+        "Rock",
+        "Ska"
+      ],
+      "Movies": [
+        "The Dark Knight",
+        "Top Gun"
+      ],
+      "Location": "Maine"
+    },
+    {
+      "Name": "Doug Akridge",
+      "Music Genre": [
+        "Rock",
+        "Blues"
+      ],
+      "Movies": [
+        "Jurassic Park",
+        "Cast Away",
+        "Romeo + Juliet"
+      ],
+      "Location": "Washington, D.C."
+    }
+  ],
+  "artists": {
+    "Rock": [
+      "Led Zeppelin",
+      "AC/DC",
+      "Rolling Stones"
+    ],
+    "Country": [
+      "Alabama",
+      "Rascal Flatts"
+    ],
+    "Classical": [
+      "Mozart",
+      "Bach",
+      "Chopin",
+      "Taylor"
+    ],
+    "Jazz": [
+      "Miles Davis Quintet",
+      "Duke Ellington",
+      "Louis Armstrong"
+    ],
+    "Ska": [
+      "Sublime",
+      "Reel Big Fish",
+      "The Mighty Mighty Bosstones"
+    ],
+    "Blues": [
+      "John Mayer Trio",
+      "B.B. King",
+      "Eric Clapton"
+    ]
+  }
+}
